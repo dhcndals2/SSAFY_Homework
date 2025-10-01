@@ -1,0 +1,19 @@
+{
+  "name": "ai-py-server",
+  "version": "1.0.0",
+  "description": "Backend server for the remote controller project.",
+  "main": "server.mjs",
+  "type": "module",
+  "scripts": {
+    "start": "node server.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.2",
+    "express": "^5.1.0",
+    "openai": "^5.21.0"
+  }
+}
