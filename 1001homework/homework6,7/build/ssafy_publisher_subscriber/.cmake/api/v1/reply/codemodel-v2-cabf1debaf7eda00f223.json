@@ -1,0 +1,88 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-bdc586429c1eb89c8c14.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ssafy_publisher_subscriber",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ssafy_publisher::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ssafy_publisher-82e27cead77fbe04fb5b.json",
+					"name" : "ssafy_publisher",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ssafy_publisher_subscriber_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ssafy_publisher_subscriber_uninstall-40e27bd6502efcec7dda.json",
+					"name" : "ssafy_publisher_subscriber_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ssafy_subscriber::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ssafy_subscriber-f7c51f1683e4cf0f636e.json",
+					"name" : "ssafy_subscriber",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-fc1d46b7796fe24d450b.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/ssafy/work/1001homework6/build/ssafy_publisher_subscriber",
+		"source" : "/home/ssafy/work/1001homework6/src/ssafy_publisher_subscriber"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

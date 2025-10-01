@@ -1,0 +1,4 @@
+source;share/ssafy_publisher_subscriber/local_setup.bash
+source;share/ssafy_publisher_subscriber/local_setup.dsv
+source;share/ssafy_publisher_subscriber/local_setup.sh
+source;share/ssafy_publisher_subscriber/local_setup.zsh

@@ -1,0 +1,37 @@
+[0.395s] Invoking command in '/home/ssafy/work/1001homework6/src/turtlesim_drawing': PYTHONPATH=/home/ssafy/work/1001homework6/build/turtlesim_drawing/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ssafy/work/1001homework6/install/turtlesim_drawing/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/turtlesim_drawing build --build-base /home/ssafy/work/1001homework6/build/turtlesim_drawing/build install --record /home/ssafy/work/1001homework6/build/turtlesim_drawing/install.log --single-version-externally-managed install_data
+[0.538s] running egg_info
+[0.538s] creating ../../build/turtlesim_drawing/turtlesim_drawing.egg-info
+[0.538s] writing ../../build/turtlesim_drawing/turtlesim_drawing.egg-info/PKG-INFO
+[0.538s] writing dependency_links to ../../build/turtlesim_drawing/turtlesim_drawing.egg-info/dependency_links.txt
+[0.538s] writing entry points to ../../build/turtlesim_drawing/turtlesim_drawing.egg-info/entry_points.txt
+[0.538s] writing requirements to ../../build/turtlesim_drawing/turtlesim_drawing.egg-info/requires.txt
+[0.538s] writing top-level names to ../../build/turtlesim_drawing/turtlesim_drawing.egg-info/top_level.txt
+[0.538s] writing manifest file '../../build/turtlesim_drawing/turtlesim_drawing.egg-info/SOURCES.txt'
+[0.540s] reading manifest file '../../build/turtlesim_drawing/turtlesim_drawing.egg-info/SOURCES.txt'
+[0.540s] writing manifest file '../../build/turtlesim_drawing/turtlesim_drawing.egg-info/SOURCES.txt'
+[0.540s] running build
+[0.540s] running build_py
+[0.540s] creating /home/ssafy/work/1001homework6/build/turtlesim_drawing/build
+[0.540s] creating /home/ssafy/work/1001homework6/build/turtlesim_drawing/build/lib
+[0.540s] creating /home/ssafy/work/1001homework6/build/turtlesim_drawing/build/lib/turtlesim_drawing
+[0.540s] copying turtlesim_drawing/__init__.py -> /home/ssafy/work/1001homework6/build/turtlesim_drawing/build/lib/turtlesim_drawing
+[0.541s] copying turtlesim_drawing/draw_ga.py -> /home/ssafy/work/1001homework6/build/turtlesim_drawing/build/lib/turtlesim_drawing
+[0.541s] running install
+[0.541s] running install_lib
+[0.541s] creating /home/ssafy/work/1001homework6/install/turtlesim_drawing/lib/python3.10/site-packages/turtlesim_drawing
+[0.541s] copying /home/ssafy/work/1001homework6/build/turtlesim_drawing/build/lib/turtlesim_drawing/__init__.py -> /home/ssafy/work/1001homework6/install/turtlesim_drawing/lib/python3.10/site-packages/turtlesim_drawing
+[0.541s] copying /home/ssafy/work/1001homework6/build/turtlesim_drawing/build/lib/turtlesim_drawing/draw_ga.py -> /home/ssafy/work/1001homework6/install/turtlesim_drawing/lib/python3.10/site-packages/turtlesim_drawing
+[0.541s] byte-compiling /home/ssafy/work/1001homework6/install/turtlesim_drawing/lib/python3.10/site-packages/turtlesim_drawing/__init__.py to __init__.cpython-310.pyc
+[0.542s] byte-compiling /home/ssafy/work/1001homework6/install/turtlesim_drawing/lib/python3.10/site-packages/turtlesim_drawing/draw_ga.py to draw_ga.cpython-310.pyc
+[0.542s] running install_data
+[0.543s] creating /home/ssafy/work/1001homework6/install/turtlesim_drawing/share/ament_index
+[0.543s] creating /home/ssafy/work/1001homework6/install/turtlesim_drawing/share/ament_index/resource_index
+[0.543s] creating /home/ssafy/work/1001homework6/install/turtlesim_drawing/share/ament_index/resource_index/packages
+[0.543s] copying resource/turtlesim_drawing -> /home/ssafy/work/1001homework6/install/turtlesim_drawing/share/ament_index/resource_index/packages
+[0.543s] copying package.xml -> /home/ssafy/work/1001homework6/install/turtlesim_drawing/share/turtlesim_drawing
+[0.543s] running install_egg_info
+[0.544s] Copying ../../build/turtlesim_drawing/turtlesim_drawing.egg-info to /home/ssafy/work/1001homework6/install/turtlesim_drawing/lib/python3.10/site-packages/turtlesim_drawing-0.0.0-py3.10.egg-info
+[0.544s] running install_scripts
+[0.557s] Installing draw_ga script to /home/ssafy/work/1001homework6/install/turtlesim_drawing/lib/turtlesim_drawing
+[0.557s] writing list of installed files to '/home/ssafy/work/1001homework6/build/turtlesim_drawing/install.log'
+[0.572s] Invoked command in '/home/ssafy/work/1001homework6/src/turtlesim_drawing' returned '0': PYTHONPATH=/home/ssafy/work/1001homework6/build/turtlesim_drawing/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ssafy/work/1001homework6/install/turtlesim_drawing/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/turtlesim_drawing build --build-base /home/ssafy/work/1001homework6/build/turtlesim_drawing/build install --record /home/ssafy/work/1001homework6/build/turtlesim_drawing/install.log --single-version-externally-managed install_data

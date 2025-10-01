@@ -1,0 +1,19 @@
+running egg_info
+writing ../../build/turtlesim_drawing/turtlesim_drawing.egg-info/PKG-INFO
+writing dependency_links to ../../build/turtlesim_drawing/turtlesim_drawing.egg-info/dependency_links.txt
+writing entry points to ../../build/turtlesim_drawing/turtlesim_drawing.egg-info/entry_points.txt
+writing requirements to ../../build/turtlesim_drawing/turtlesim_drawing.egg-info/requires.txt
+writing top-level names to ../../build/turtlesim_drawing/turtlesim_drawing.egg-info/top_level.txt
+reading manifest file '../../build/turtlesim_drawing/turtlesim_drawing.egg-info/SOURCES.txt'
+writing manifest file '../../build/turtlesim_drawing/turtlesim_drawing.egg-info/SOURCES.txt'
+running build
+running build_py
+running install
+running install_lib
+running install_data
+running install_egg_info
+removing '/home/ssafy/work/1001homework6/install/turtlesim_drawing/lib/python3.10/site-packages/turtlesim_drawing-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/turtlesim_drawing/turtlesim_drawing.egg-info to /home/ssafy/work/1001homework6/install/turtlesim_drawing/lib/python3.10/site-packages/turtlesim_drawing-0.0.0-py3.10.egg-info
+running install_scripts
+Installing draw_ga script to /home/ssafy/work/1001homework6/install/turtlesim_drawing/lib/turtlesim_drawing
+writing list of installed files to '/home/ssafy/work/1001homework6/build/turtlesim_drawing/install.log'

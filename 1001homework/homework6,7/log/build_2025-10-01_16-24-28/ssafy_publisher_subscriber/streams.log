@@ -1,0 +1,73 @@
+[0.011s] Invoking command in '/home/ssafy/work/1001homework6/build/ssafy_publisher_subscriber': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ssafy/ros2_ws/install/test_ros:/home/ssafy/work/ros_prac3/install/turtle_spawner:/home/ssafy/work/ros_prac3/install/turtle_controller:/home/ssafy/work/ros_prac3/install/my_python_pkg:/home/ssafy/turtle_ws/install/turtle_spawner:/home/ssafy/turtle_ws/install/turtle_controller:/opt/ros/humble /usr/bin/cmake /home/ssafy/work/1001homework6/src/ssafy_publisher_subscriber -DCMAKE_INSTALL_PREFIX=/home/ssafy/work/1001homework6/install/ssafy_publisher_subscriber
+[0.055s] -- The C compiler identification is GNU 11.4.0
+[0.097s] -- The CXX compiler identification is GNU 11.4.0
+[0.103s] -- Detecting C compiler ABI info
+[0.155s] -- Detecting C compiler ABI info - done
+[0.160s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.160s] -- Detecting C compile features
+[0.160s] -- Detecting C compile features - done
+[0.162s] -- Detecting CXX compiler ABI info
+[0.224s] -- Detecting CXX compiler ABI info - done
+[0.229s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.229s] -- Detecting CXX compile features
+[0.229s] -- Detecting CXX compile features - done
+[0.231s] -- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.352s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.417s] -- Found rclcpp: 16.0.15 (/opt/ros/humble/share/rclcpp/cmake)
+[0.446s] -- Found rosidl_generator_c: 3.1.7 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.449s] -- Found rosidl_adapter: 3.1.7 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.454s] -- Found rosidl_generator_cpp: 3.1.7 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.462s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.473s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.501s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[0.503s] -- Found rmw_fastrtps_cpp: 6.2.8 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[0.573s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[0.595s] -- Found FastRTPS: /opt/ros/humble/include  
+[0.623s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[0.628s] -- Looking for pthread.h
+[0.713s] -- Looking for pthread.h - found
+[0.713s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[0.799s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[0.802s] -- Found Threads: TRUE  
+[0.856s] -- Found ament_lint_auto: 0.12.14 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.910s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[0.910s] -- Configured cppcheck include dirs: 
+[0.910s] -- Configured cppcheck exclude dirs and/or files: 
+[0.910s] -- Added test 'lint_cmake' to check CMake code style
+[0.911s] -- Added test 'uncrustify' to check C / C++ code style
+[0.911s] -- Configured uncrustify additional arguments: 
+[0.911s] -- Added test 'xmllint' to check XML markup files
+[0.912s] -- Configuring done
+[0.920s] -- Generating done
+[0.925s] -- Build files have been written to: /home/ssafy/work/1001homework6/build/ssafy_publisher_subscriber
+[0.933s] Invoked command in '/home/ssafy/work/1001homework6/build/ssafy_publisher_subscriber' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ssafy/ros2_ws/install/test_ros:/home/ssafy/work/ros_prac3/install/turtle_spawner:/home/ssafy/work/ros_prac3/install/turtle_controller:/home/ssafy/work/ros_prac3/install/my_python_pkg:/home/ssafy/turtle_ws/install/turtle_spawner:/home/ssafy/turtle_ws/install/turtle_controller:/opt/ros/humble /usr/bin/cmake /home/ssafy/work/1001homework6/src/ssafy_publisher_subscriber -DCMAKE_INSTALL_PREFIX=/home/ssafy/work/1001homework6/install/ssafy_publisher_subscriber
+[0.934s] Invoking command in '/home/ssafy/work/1001homework6/build/ssafy_publisher_subscriber': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ssafy/ros2_ws/install/test_ros:/home/ssafy/work/ros_prac3/install/turtle_spawner:/home/ssafy/work/ros_prac3/install/turtle_controller:/home/ssafy/work/ros_prac3/install/my_python_pkg:/home/ssafy/turtle_ws/install/turtle_spawner:/home/ssafy/turtle_ws/install/turtle_controller:/opt/ros/humble /usr/bin/cmake --build /home/ssafy/work/1001homework6/build/ssafy_publisher_subscriber -- -j20 -l20
+[1.010s] [ 25%] [32mBuilding CXX object CMakeFiles/ssafy_subscriber.dir/src/ssafy_subscriber.cpp.o[0m
+[1.010s] [ 50%] [32mBuilding CXX object CMakeFiles/ssafy_publisher.dir/src/ssafy_publisher.cpp.o[0m
+[3.699s] [ 75%] [32m[1mLinking CXX executable ssafy_publisher[0m
+[3.828s] [ 75%] Built target ssafy_publisher
+[6.105s] [100%] [32m[1mLinking CXX executable ssafy_subscriber[0m
+[6.347s] [100%] Built target ssafy_subscriber
+[6.360s] Invoked command in '/home/ssafy/work/1001homework6/build/ssafy_publisher_subscriber' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ssafy/ros2_ws/install/test_ros:/home/ssafy/work/ros_prac3/install/turtle_spawner:/home/ssafy/work/ros_prac3/install/turtle_controller:/home/ssafy/work/ros_prac3/install/my_python_pkg:/home/ssafy/turtle_ws/install/turtle_spawner:/home/ssafy/turtle_ws/install/turtle_controller:/opt/ros/humble /usr/bin/cmake --build /home/ssafy/work/1001homework6/build/ssafy_publisher_subscriber -- -j20 -l20
+[6.374s] Invoking command in '/home/ssafy/work/1001homework6/build/ssafy_publisher_subscriber': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ssafy/ros2_ws/install/test_ros:/home/ssafy/work/ros_prac3/install/turtle_spawner:/home/ssafy/work/ros_prac3/install/turtle_controller:/home/ssafy/work/ros_prac3/install/my_python_pkg:/home/ssafy/turtle_ws/install/turtle_spawner:/home/ssafy/turtle_ws/install/turtle_controller:/opt/ros/humble /usr/bin/cmake --install /home/ssafy/work/1001homework6/build/ssafy_publisher_subscriber
+[6.383s] -- Install configuration: ""
+[6.383s] -- Installing: /home/ssafy/work/1001homework6/install/ssafy_publisher_subscriber/lib/ssafy_publisher_subscriber/ssafy_publisher
+[6.384s] -- Set runtime path of "/home/ssafy/work/1001homework6/install/ssafy_publisher_subscriber/lib/ssafy_publisher_subscriber/ssafy_publisher" to ""
+[6.384s] -- Installing: /home/ssafy/work/1001homework6/install/ssafy_publisher_subscriber/lib/ssafy_publisher_subscriber/ssafy_subscriber
+[6.386s] -- Set runtime path of "/home/ssafy/work/1001homework6/install/ssafy_publisher_subscriber/lib/ssafy_publisher_subscriber/ssafy_subscriber" to ""
+[6.386s] -- Installing: /home/ssafy/work/1001homework6/install/ssafy_publisher_subscriber/share/ament_index/resource_index/package_run_dependencies/ssafy_publisher_subscriber
+[6.386s] -- Installing: /home/ssafy/work/1001homework6/install/ssafy_publisher_subscriber/share/ament_index/resource_index/parent_prefix_path/ssafy_publisher_subscriber
+[6.386s] -- Installing: /home/ssafy/work/1001homework6/install/ssafy_publisher_subscriber/share/ssafy_publisher_subscriber/environment/ament_prefix_path.sh
+[6.386s] -- Installing: /home/ssafy/work/1001homework6/install/ssafy_publisher_subscriber/share/ssafy_publisher_subscriber/environment/ament_prefix_path.dsv
+[6.387s] -- Installing: /home/ssafy/work/1001homework6/install/ssafy_publisher_subscriber/share/ssafy_publisher_subscriber/environment/path.sh
+[6.387s] -- Installing: /home/ssafy/work/1001homework6/install/ssafy_publisher_subscriber/share/ssafy_publisher_subscriber/environment/path.dsv
+[6.387s] -- Installing: /home/ssafy/work/1001homework6/install/ssafy_publisher_subscriber/share/ssafy_publisher_subscriber/local_setup.bash
+[6.387s] -- Installing: /home/ssafy/work/1001homework6/install/ssafy_publisher_subscriber/share/ssafy_publisher_subscriber/local_setup.sh
+[6.387s] -- Installing: /home/ssafy/work/1001homework6/install/ssafy_publisher_subscriber/share/ssafy_publisher_subscriber/local_setup.zsh
+[6.387s] -- Installing: /home/ssafy/work/1001homework6/install/ssafy_publisher_subscriber/share/ssafy_publisher_subscriber/local_setup.dsv
+[6.387s] -- Installing: /home/ssafy/work/1001homework6/install/ssafy_publisher_subscriber/share/ssafy_publisher_subscriber/package.dsv
+[6.387s] -- Installing: /home/ssafy/work/1001homework6/install/ssafy_publisher_subscriber/share/ament_index/resource_index/packages/ssafy_publisher_subscriber
+[6.387s] -- Installing: /home/ssafy/work/1001homework6/install/ssafy_publisher_subscriber/share/ssafy_publisher_subscriber/cmake/ssafy_publisher_subscriberConfig.cmake
+[6.387s] -- Installing: /home/ssafy/work/1001homework6/install/ssafy_publisher_subscriber/share/ssafy_publisher_subscriber/cmake/ssafy_publisher_subscriberConfig-version.cmake
+[6.387s] -- Installing: /home/ssafy/work/1001homework6/install/ssafy_publisher_subscriber/share/ssafy_publisher_subscriber/package.xml
+[6.389s] Invoked command in '/home/ssafy/work/1001homework6/build/ssafy_publisher_subscriber' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ssafy/ros2_ws/install/test_ros:/home/ssafy/work/ros_prac3/install/turtle_spawner:/home/ssafy/work/ros_prac3/install/turtle_controller:/home/ssafy/work/ros_prac3/install/my_python_pkg:/home/ssafy/turtle_ws/install/turtle_spawner:/home/ssafy/turtle_ws/install/turtle_controller:/opt/ros/humble /usr/bin/cmake --install /home/ssafy/work/1001homework6/build/ssafy_publisher_subscriber

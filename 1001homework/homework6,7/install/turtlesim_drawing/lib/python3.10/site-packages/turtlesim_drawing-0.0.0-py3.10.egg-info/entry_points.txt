@@ -1,0 +1,3 @@
+[console_scripts]
+draw_ga = turtlesim_drawing.draw_ga:main
+

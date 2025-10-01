@@ -1,0 +1,37 @@
+[0.690s] Invoking command in '/home/ssafy/work/ros_prac3/src/turtle_spawner': PYTHONPATH=/home/ssafy/work/ros_prac3/build/turtle_spawner/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ssafy/work/ros_prac3/install/turtle_spawner/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/turtle_spawner build --build-base /home/ssafy/work/ros_prac3/build/turtle_spawner/build install --record /home/ssafy/work/ros_prac3/build/turtle_spawner/install.log --single-version-externally-managed install_data
+[0.840s] running egg_info
+[0.841s] creating ../../build/turtle_spawner/turtle_spawner.egg-info
+[0.841s] writing ../../build/turtle_spawner/turtle_spawner.egg-info/PKG-INFO
+[0.841s] writing dependency_links to ../../build/turtle_spawner/turtle_spawner.egg-info/dependency_links.txt
+[0.841s] writing entry points to ../../build/turtle_spawner/turtle_spawner.egg-info/entry_points.txt
+[0.841s] writing requirements to ../../build/turtle_spawner/turtle_spawner.egg-info/requires.txt
+[0.841s] writing top-level names to ../../build/turtle_spawner/turtle_spawner.egg-info/top_level.txt
+[0.841s] writing manifest file '../../build/turtle_spawner/turtle_spawner.egg-info/SOURCES.txt'
+[0.843s] reading manifest file '../../build/turtle_spawner/turtle_spawner.egg-info/SOURCES.txt'
+[0.843s] writing manifest file '../../build/turtle_spawner/turtle_spawner.egg-info/SOURCES.txt'
+[0.843s] running build
+[0.843s] running build_py
+[0.843s] creating /home/ssafy/work/ros_prac3/build/turtle_spawner/build
+[0.843s] creating /home/ssafy/work/ros_prac3/build/turtle_spawner/build/lib
+[0.843s] creating /home/ssafy/work/ros_prac3/build/turtle_spawner/build/lib/turtle_spawner
+[0.843s] copying turtle_spawner/__init__.py -> /home/ssafy/work/ros_prac3/build/turtle_spawner/build/lib/turtle_spawner
+[0.843s] copying turtle_spawner/spawn_turtle.py -> /home/ssafy/work/ros_prac3/build/turtle_spawner/build/lib/turtle_spawner
+[0.843s] running install
+[0.844s] running install_lib
+[0.844s] creating /home/ssafy/work/ros_prac3/install/turtle_spawner/lib/python3.10/site-packages/turtle_spawner
+[0.844s] copying /home/ssafy/work/ros_prac3/build/turtle_spawner/build/lib/turtle_spawner/__init__.py -> /home/ssafy/work/ros_prac3/install/turtle_spawner/lib/python3.10/site-packages/turtle_spawner
+[0.844s] copying /home/ssafy/work/ros_prac3/build/turtle_spawner/build/lib/turtle_spawner/spawn_turtle.py -> /home/ssafy/work/ros_prac3/install/turtle_spawner/lib/python3.10/site-packages/turtle_spawner
+[0.844s] byte-compiling /home/ssafy/work/ros_prac3/install/turtle_spawner/lib/python3.10/site-packages/turtle_spawner/__init__.py to __init__.cpython-310.pyc
+[0.844s] byte-compiling /home/ssafy/work/ros_prac3/install/turtle_spawner/lib/python3.10/site-packages/turtle_spawner/spawn_turtle.py to spawn_turtle.cpython-310.pyc
+[0.845s] running install_data
+[0.845s] creating /home/ssafy/work/ros_prac3/install/turtle_spawner/share/ament_index
+[0.845s] creating /home/ssafy/work/ros_prac3/install/turtle_spawner/share/ament_index/resource_index
+[0.845s] creating /home/ssafy/work/ros_prac3/install/turtle_spawner/share/ament_index/resource_index/packages
+[0.845s] copying resource/turtle_spawner -> /home/ssafy/work/ros_prac3/install/turtle_spawner/share/ament_index/resource_index/packages
+[0.845s] copying package.xml -> /home/ssafy/work/ros_prac3/install/turtle_spawner/share/turtle_spawner
+[0.845s] running install_egg_info
+[0.846s] Copying ../../build/turtle_spawner/turtle_spawner.egg-info to /home/ssafy/work/ros_prac3/install/turtle_spawner/lib/python3.10/site-packages/turtle_spawner-0.0.0-py3.10.egg-info
+[0.846s] running install_scripts
+[0.860s] Installing spawn_turtle script to /home/ssafy/work/ros_prac3/install/turtle_spawner/lib/turtle_spawner
+[0.860s] writing list of installed files to '/home/ssafy/work/ros_prac3/build/turtle_spawner/install.log'
+[0.885s] Invoked command in '/home/ssafy/work/ros_prac3/src/turtle_spawner' returned '0': PYTHONPATH=/home/ssafy/work/ros_prac3/build/turtle_spawner/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ssafy/work/ros_prac3/install/turtle_spawner/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/turtle_spawner build --build-base /home/ssafy/work/ros_prac3/build/turtle_spawner/build install --record /home/ssafy/work/ros_prac3/build/turtle_spawner/install.log --single-version-externally-managed install_data
